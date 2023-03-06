@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+# Site Settings
+locale                   : "ja"
+title                    : "Julia workshop 2023 (tentative)"
