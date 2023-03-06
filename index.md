@@ -2,7 +2,8 @@
 - 世話人: 
 横山俊一 (東京都立大学)、
 永井佑紀 (日本原子力研究開発機構)、
-富谷昭夫 (大阪国際工科専門職大学)(順不同)
+富谷昭夫 (大阪国際工科専門職大学)
+(順不同)
 
 # 概要
 [Julia](https://julialang.org/) は2018年にバージョン1が公開されたオープンソースの科学技術計算言語で、
@@ -24,5 +25,11 @@ TBA
 # 参加登録
 TBA
 
-# 関連する過去の研究会
-[Julia in Physics 2021 Online](https://akio-tomiya.github.io/julia_in_physics/)
+# リンク
+- [Julia in Physics 2021 Online](https://akio-tomiya.github.io/julia_in_physics/)
+- [九州大学マス・フォア・インダストリ研究所](https://www.imi.kyushu-u.ac.jp/)
+
+
+主催: 九州大学マス・フォア・インダストリ研究所 <br>
+共催: 科学研究費補助金学術変革領域研究(A)「学習物理学の創成」 <br>
+本研究は2023年度IMI共同利用研究 カテゴリー「数学と物理におけるJuliaの活用」（2023a015）の支援を受けた。
