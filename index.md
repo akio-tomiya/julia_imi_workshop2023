@@ -32,5 +32,6 @@ TBA
 
 主催: 九州大学マス・フォア・インダストリ研究所 <br>
 共催: [科学研究費補助金学術変革領域研究(A)「学習物理学の創成」](https://mlphys.scphys.kyoto-u.ac.jp/) <br>
+<br>
 <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K03537/">科研基盤研究(C)「Julia言語を用いた新しい計算機数論システムの開発とその応用」</a><br>
 [本研究会は2023年度IMI共同利用研究 カテゴリー「数学と物理におけるJuliaの活用」（2023a015）の支援を受けた。](https://joint1.imi.kyushu-u.ac.jp/research_chooses/view/2023a015)
