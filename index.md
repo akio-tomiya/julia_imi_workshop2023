@@ -51,7 +51,7 @@ Julia は様々な分野において活用が始まっている。
 
 
 ## 決定済みの講演者
-- 後藤俊介(来栖川電算) ["実践Julia入門" 技術評論社](https://inetnf.msg/envelope.cgi?if=warning&blkinfo=R0wqv4b191DOtOIPXfEpn1mIAHcV%2BPyDp81DumOpCFsiBL1Ez1XrU6yc7%2B4wDriJI0%2FIxMdtMIklUdfsRoym2ap6fCD3IaMXqEqkjr4xStcKJYkpA01TPZwh%2FQBrydONzJuQxAG3qhxrpoepiYNuzHKu1EsGqFXd1M5wI4w8%2Fxf%2FVahTNgEnJ5U4xX9S5YTCglUxj8Tci25ZxXeBCRS8JVt9eJKCJ8OxVY7o2zDxm8Cb4SnEMILY1ukN1%2FxO7judufZTGUJA60y8fQHKslFM41mCnyQ308ZebqUA7uUpph1RIeNQ%2Bru6yBcV4e0kCpHLEMKt%2F7hn0oqUV0h6pHj6NWQg5r3H6Lnm)
+- 後藤俊介(来栖川電算) ["実践Julia入門" 技術評論社](https://gihyo.jp/book/2023/978-4-297-13350-4)
 - 品岡寛（埼玉大学）
 - 降籏大介（大阪大学）
 - 堀川由人（大阪大学）
