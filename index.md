@@ -1,10 +1,4 @@
 
-- 世話人: 
-富谷昭夫 (大阪国際工科専門職大学)、
-横山俊一 (東京都立大学)、
-永井佑紀 (日本原子力研究開発機構) 、
-寺崎敏志 (AtelierArith)
-(順不同)
 
 # 概要
 [Julia](https://julialang.org/) は2018年にバージョン1が公開されたオープンソースの科学技術計算言語で、
@@ -83,3 +77,11 @@ TBA
 <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K03537/">科研基盤研究(C)「Julia言語を用いた新しい計算機数論システムの開発とその応用」</a><br>
 <br>
 [本研究会は2023年度IMI共同利用研究 カテゴリー「数学と物理におけるJuliaの活用」（2023a015）の支援を受けた。](https://joint1.imi.kyushu-u.ac.jp/research_chooses/view/2023a015)
+
+
+- 世話人: 
+富谷昭夫 (大阪国際工科専門職大学)、
+横山俊一 (東京都立大学)、
+永井佑紀 (日本原子力研究開発機構) 、
+寺崎敏志 (AtelierArith)
+(順不同)
