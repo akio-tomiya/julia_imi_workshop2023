@@ -14,6 +14,14 @@ Julia は様々な分野において活用が始まっている。
 また可視化、高速計算、微分方程式の数値解法、統計・機械学習分野への応用例や実装例、パッケージ開発も議論の対象とする。
 研究機関に所属する研究者だけでなく産業界での研究者、学生などの積極的な参加を歓迎する。
 
+# ポスター講演募集
+ポスター講演を募集いたします。
+分野は問わず、一部にでもJulia(可視化や解析等)を使っている方であれば誰でもウェルカムです。パッケージ等の作成でも良いです(例: Juliaを使った開発でも可)。必ずしも新規の研究成果は求めません。ただし会場のキャパシティの問題もあるので、想定する人数を超えた場合、世話人により選考を行います。
+外部資金を持たない方（学生等）は旅費の補助が可能（人数の制限あり）です。
+
+- 申し込みフォーム（準備中）
+
+
 # 日時
 2023/7/10(月), 11(火), 12(水) 
 
@@ -38,6 +46,7 @@ Julia は様々な分野において活用が始まっている。
 
 # 重要な日時
 
+- 5/31 ポスター発表参加登録締切
 - 7/10: 研究会当日
 
 # プログラム
@@ -46,13 +55,16 @@ Julia は様々な分野において活用が始まっている。
 詳細は追ってホームページ上で連絡します。
 
 ## 決定済みの講演者
-- 富谷昭夫 (大阪国際工科専門職大学)、
+- 後藤俊介(来栖川電算) ["実践Julia入門" 技術評論社](https://inetnf.msg/envelope.cgi?if=warning&blkinfo=R0wqv4b191DOtOIPXfEpn1mIAHcV%2BPyDp81DumOpCFsiBL1Ez1XrU6yc7%2B4wDriJI0%2FIxMdtMIklUdfsRoym2ap6fCD3IaMXqEqkjr4xStcKJYkpA01TPZwh%2FQBrydONzJuQxAG3qhxrpoepiYNuzHKu1EsGqFXd1M5wI4w8%2Fxf%2FVahTNgEnJ5U4xX9S5YTCglUxj8Tci25ZxXeBCRS8JVt9eJKCJ8OxVY7o2zDxm8Cb4SnEMILY1ukN1%2FxO7judufZTGUJA60y8fQHKslFM41mCnyQ308ZebqUA7uUpph1RIeNQ%2Bru6yBcV4e0kCpHLEMKt%2F7hn0oqUV0h6pHj6NWQg5r3H6Lnm)
+- 品岡寛（埼玉大学）
+- 降籏大介（大阪大学）
+- 堀川由人（大阪大学）
+- 寺崎敏志 (AtelierArith)
+- 富谷昭夫 (大阪国際工科専門職大学)
 - 横山俊一 (東京都立大学)、
-- 永井佑紀 (日本原子力研究開発機構) 
-- TBA
-- TBA
-- TBA
-- TBA
+- 永井佑紀 (日本原子力研究開発機構) ["1週間で学べる！ Julia数値計算プログラミング" 講談社](https://www.kspub.co.jp/book/detail/5282823.html)
+
+
 
 # 参加登録
 TBA
