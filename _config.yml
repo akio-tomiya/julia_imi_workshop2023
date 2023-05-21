@@ -4,4 +4,3 @@ plugins:
 
 # Site Settings
 locale                   : "ja"
-title                    : "数学と物理におけるJuliaの活用"
