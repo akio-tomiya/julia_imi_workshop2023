@@ -247,12 +247,14 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
   github-pages
+  webrick (~> 1.8)
 
 BUNDLED WITH
-   2.4.13
+   2.4.10
