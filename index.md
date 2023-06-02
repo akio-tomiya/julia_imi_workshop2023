@@ -66,7 +66,7 @@ Julia は様々な分野において活用が始まっている。
 分野は問わず、一部にでもJulia(可視化や解析等)を使っている方であれば誰でもウェルカムです。パッケージ等の作成でも良いです(例: Juliaを使った開発でも可)。必ずしも新規の研究成果は求めません。ただし会場のキャパシティの問題もあるので、想定する人数を超えた場合、世話人により選考を行います。
 外部資金を持たない方（学生等）は旅費の補助が可能（人数の制限あり）です。
 
-- [申し込みフォーム](https://docs.google.com/forms/d/1IsTLenk1gGZzXBSXpIrfZj8aIPCr5rvNiP6zJXkvblc)
+- [申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSf_Tz_Ux8nwLnPdX0tXQK1iKsAOl7wbyOP8wx6vNoDbqvDp9Q/viewform)
 申し込み締め切りは6/16です。
 
 # 参加登録
