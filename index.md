@@ -73,7 +73,8 @@ Julia は様々な分野において活用が始まっている。
 申し込み締め切りは6/16です。
 
 # 参加登録
-- [申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLScMpfA7hfDjHJtdgdLqVxkLjtgTTWfE8z7e680-31-_Zzn1Ug/viewform)
+- [申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLScMpfA7hfDjHJtdgdLqVxkLjtgTTWfE8z7e680-31-_Zzn1Ug/viewform)<br>
+※ ポスター発表を申し込まれた方も、別途参加登録が必要です。<br>
 ※ 予定人数に達し次第、申し込みを締め切らせていただくことがあります。
 
 # リンク
