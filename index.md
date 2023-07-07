@@ -154,7 +154,7 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 
 # 参加登録
 
-- 懇親会受付は終了しました。オンライン参加は受け付けております。
+- 懇親会受付は終了しました。
 - [申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLScMpfA7hfDjHJtdgdLqVxkLjtgTTWfE8z7e680-31-_Zzn1Ug/viewform)<br>
 ※ ポスター発表を申し込まれた方も、別途参加登録が必要です。<br>
 ※ 予定人数に達し次第、申し込みを締め切らせていただくことがあります。
