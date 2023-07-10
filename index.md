@@ -100,6 +100,7 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - 講演者: 横山俊一 (東京都立大学)
 - 講演時間: 7/11(火) 10:00 - 10:50
 - Julia 言語は現在急速に普及しているが、数学分野においては比較的幾何学・解析学の分野においての活用例が多く、代数学の分野においてはまだまだ少ないのが現状である。しかしながら近年では AbstractAlgebra.jl などに代表される、非常に汎用性の高いパッケージが充実してきている。本講演では代数系分野における Julia 活用の可能性について触れた後、とくに数論における Julia native の数式処理システム開発プロジェクト NemoCas / OSCAR について紹介する。
+- [スライド資料](https://www.dropbox.com/scl/fi/4y3r5yyhzjzsvtxo51p7s/20230711_IMIJuliaConf_proc.pdf?rlkey=2947921dns42nupgg3mhhm9jf&dl=0)
 
 ### <a name="3　講演">Juliaによる科学技術計算:大規模並列計算について</a>
 
