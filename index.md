@@ -95,6 +95,8 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 [4] N. Gourianov et al., Nat. Comput. Sci. 2, 30 (2022).
 [5] H. Shinaoka et al., Physical Review X 13, 021015 (2023). 
 
+- [講演資料(スライド)](slides/shinaoka_20230712.pdf)
+
 ## 口頭発表
 
 ### <a name="1　講演">数論における Julia の援用</a>
