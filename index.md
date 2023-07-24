@@ -65,6 +65,9 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - [1. インストールと基本的な使い方 スライド資料](https://atelierarith.github.io/julia_tutorial/slideshow/tutorial_part1/build/)
 - [2. 型と多重ディスパッチ 講演資料（スライド）](https://speakerdeck.com/antimon2/xing-toduo-zhong-deisupatuti-for-shu-xue-towu-li-niokerujulianohuo-yong-2023-07-10)（[Pluto ノートブック](https://antimon2.github.io/julia_imi_workshop2023_tutorial/1st_example_type_md.html)）
 - [3. スレッド並列の基礎 講演資料（スライド）](https://speakerdeck.com/antimon2/suretudobing-lie-noji-chu-for-shu-xue-towu-li-niokerujulianohuo-yong-2023-07-10)（[Pluto ノートブック](https://antimon2.github.io/julia_imi_workshop2023_tutorial/1st_example_nthreads.html)）
+- [講演動画(Youtube, 期間限定)](https://youtu.be/A11DiBbjKdM?t=494)
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=1hB_ApwzGDc)
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=0NI1v2NhrEg)
 
 ## 招待講演
 
@@ -74,6 +77,7 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - 講演時間: 7/11(火) 11:10 - 12:00
 - B-splineは滑らかさを保証した区分多項式を作るための道具であり、幾何形状表現や数値解析など広範な分野で活用されている。JuliaにおけるB-splineのパッケージは幾つか存在するが、その中でもBasicBSpline.jlを本講演では扱う。BasicBSpline.jlパッケージの使用方法を交えながらB-splineに関する理論を解説し、その応用例についても触れる。
 - [講演資料(スライド)](https://www.docswell.com/s/hyrodium/5Q89MJ-B-spline)
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=CnWOOMuUQpQ)
 
 ### <a name="4　講演">応用数学の概念を用いた物理モデルをいかに Julia でプログラミングを行うか</a>
 
@@ -81,6 +85,7 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - 講演時間: 7/11(火) 14:40 - 15:30
 - 物理上の相分離現象に対するモデル方程式としては Cahn-Hilliard方程式が有名かつ有用だが，この数値解析は計算量的に高コストである．そこでこの現象のごく初期過程を除いて状況を記述するようなシンプルなモデルを考案したい. この際，流体的挙動を模するために空間の Voronoi分割という応用数学的手法をモデルに取り入れるのだが，これまでのコンピュータ言語ではこうしたモデルの数値解析にはそれなりに苦労する面が多々あったのが現状である．これに対し，Julia を用いると比較的容易に数値解析が行えることを示すことで，微分方程式の数値解析に対してJuliaがどのように用いられるかを紹介したい．
 - [講演資料(スライド)](slides/Furihata_20230711.pdf)
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=D5HJf9iTwGk)
 
 ### <a name="5　講演">Juliaと量子多体計算：スパースモデリングからQuantics Tensor Trainまで</a>
 
@@ -96,6 +101,7 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 [5] H. Shinaoka et al., Physical Review X 13, 021015 (2023). 
 
 - [講演資料(スライド)](slides/shinaoka_20230712.pdf)
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=caTsJm4hWJc)
 
 ## 口頭発表
 
@@ -105,6 +111,7 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - 講演時間: 7/11(火) 10:00 - 10:50
 - Julia 言語は現在急速に普及しているが、数学分野においては比較的幾何学・解析学の分野においての活用例が多く、代数学の分野においてはまだまだ少ないのが現状である。しかしながら近年では AbstractAlgebra.jl などに代表される、非常に汎用性の高いパッケージが充実してきている。本講演では代数系分野における Julia 活用の可能性について触れた後、とくに数論における Julia native の数式処理システム開発プロジェクト NemoCas / OSCAR について紹介する。
 - [スライド資料](https://www.dropbox.com/scl/fi/4y3r5yyhzjzsvtxo51p7s/20230711_IMIJuliaConf_proc.pdf?rlkey=2947921dns42nupgg3mhhm9jf&dl=0)
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=SIdpt_D5ipU)
 
 ### <a name="3　講演">Juliaによる科学技術計算:大規模並列計算について</a>
 
@@ -112,12 +119,14 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - 講演時間: 7/11(火) 13:30 - 14:20
 - 概要: Juliaを使った科学技術計算の方法について具体例を交えながら解説を行う。特に、現在Fortranを用いて数値計算を行ってきている方がJuliaに期待しているであろう点について言及する予定である。Fortranは、高速でありかつスーパーコンピュータ上での大規模並列計算が可能である。一方で、機械学習に関するパッケージはほとんどなく、Fortran使用者にとって、既存の数値計算と機械学習を組み合わせるのは非常に難しい。そこで、Juliaである。Juliaは高速で動作し、MPI並列計算もFortran（と同程度かそれ以上に楽に）実装できる。そして、最新の機械学習アルゴリズムを簡単に実装できる。本講演では、Juliaによる大規模並列計算の方法と、機械学習の方法について述べる予定である。
 - [スライド資料](https://drive.google.com/file/d/1NRRqIh0JArJX3uGqeCeAt-B2ZWiVQyie/view?usp=sharing)
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=ZST-h7ILhoQ)
 
 ### <a name="6　講演">素粒子物理におけるJuliaの活用～格子QCDの大規模計算に向けて～</a>
 
 - 講演者: 富谷昭夫 (大阪国際工科専門職大学)
 - 講演時間: 7/12(水) 11:10 - 12:00
 - 概要: 格子QCDの数値計算周りの話とJulia の利用について話します。
+- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=ytFdHbVs9Pg)
 
 ## ポスター講演募集(終了しました)
 ポスター講演を募集いたします。
