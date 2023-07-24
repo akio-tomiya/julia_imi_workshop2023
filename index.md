@@ -126,6 +126,7 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - 講演者: 富谷昭夫 (大阪国際工科専門職大学)
 - 講演時間: 7/12(水) 11:10 - 12:00
 - 概要: 格子QCDの数値計算周りの話とJulia の利用について話します。
+- [講演資料(スライド)](slides/Tomiya_Julia_imi_2023_July.pdf)
 - [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=ytFdHbVs9Pg)
 
 ## ポスター講演募集(終了しました)
