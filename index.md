@@ -65,9 +65,9 @@ IMIオーディトリアム(D-413)  [アクセスマップ](https://www.math.kyu
 - [1. インストールと基本的な使い方 スライド資料](https://atelierarith.github.io/julia_tutorial/slideshow/tutorial_part1/build/)
 - [2. 型と多重ディスパッチ 講演資料（スライド）](https://speakerdeck.com/antimon2/xing-toduo-zhong-deisupatuti-for-shu-xue-towu-li-niokerujulianohuo-yong-2023-07-10)（[Pluto ノートブック](https://antimon2.github.io/julia_imi_workshop2023_tutorial/1st_example_type_md.html)）
 - [3. スレッド並列の基礎 講演資料（スライド）](https://speakerdeck.com/antimon2/suretudobing-lie-noji-chu-for-shu-xue-towu-li-niokerujulianohuo-yong-2023-07-10)（[Pluto ノートブック](https://antimon2.github.io/julia_imi_workshop2023_tutorial/1st_example_nthreads.html)）
-- [講演動画(Youtube, 期間限定)](https://youtu.be/A11DiBbjKdM?t=494)
-- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=1hB_ApwzGDc)
-- [講演動画(Youtube, 期間限定)](https://www.youtube.com/watch?v=0NI1v2NhrEg)
+- [講演動画1 (Youtube, 期間限定)](https://youtu.be/A11DiBbjKdM?t=494)
+- [講演動画2 (Youtube, 期間限定)](https://www.youtube.com/watch?v=1hB_ApwzGDc)
+- [講演動画3 (Youtube, 期間限定)](https://www.youtube.com/watch?v=0NI1v2NhrEg)
 
 ## 招待講演
 
