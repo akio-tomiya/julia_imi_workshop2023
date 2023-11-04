@@ -1,0 +1,56 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                          %
+%    SKIP TO THE NEXT COMMENTS BELOW       %
+%   AND FOLLOW THE INSTRUCTIONS THERE      %
+%                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt]{amsart}
+\usepackage{amssymb,ifthen}
+
+\setlength{\oddsidemargin}{-0.0cm}
+\setlength{\evensidemargin}{-0.0cm} \setlength{\textwidth}{15.5cm}
+\setlength{\textheight}{23.7cm} 
+\pagestyle{empty}
+\parindent=6mm
+\def\emptystring{}
+
+\renewcommand{\abstract}[6]{\setcounter{equation}{0}
+\hbox{}\begin{center}\vskip-2.4truecm
+{\small\sc 数学と物理における Julia の活用}\\[1mm]
+{\tiny \bf July 11th, 2023, Kyushu University, Fukuoka, Japan}
+\end{center}\vspace{1mm}\hrule\vspace{1.2truecm}
+\begin{center}
+ {\Large\bf #4}\\\vspace{5mm}{\large\bf #2 #1}\\\vspace{2mm}{#3}\\
+ \ifthenelse{\equal{#5}{\emptystring}}{}
+ {\normalsize \vspace{2mm}(joint work with #5)}
+\end{center}
+\vspace{7mm} #6}
+
+\begin{document}
+\thispagestyle{empty}
+
+%%%%%%%%%%%%%%%%%
+%  \abstract is a command of 6 arguments that 
+%  should be completed via the following sketch 
+%  (the 5th argument should be left empty if you 
+%   have no coauthor):
+%                                                 
+%   \abstract{Family name}{Given name(s)}{Institution}{Title of talk}{Coauthor(s)}{Text of Abstract}
+%%%%%%%%%%%%%%%%%
+
+%Example
+\abstract{Yokoyama}{Shun'ichi}
+{Tokyo Metropolitan University, Japan}
+{数論における Julia の援用}{}
+{
+
+Julia 言語は現在急速に普及しているが，数学分野においては比較的幾何学・解析学の分野においての活用例が多く，代数学の分野においてはまだまだ少ないのが現状である．しかしながら近年では AbstractAlgebra.jl などに代表される，非常に汎用性の高いパッケージが充実してきている．本講演では代数系分野における Julia 活用の可能性について触れた後，とくに数論における Julia native の数式処理システム開発プロジェクト NemoCas / OSCAR について紹介する．
+
+
+
+
+
+
+}
+\end{document}

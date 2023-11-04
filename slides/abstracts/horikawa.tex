@@ -1,0 +1,55 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                          %
+%    SKIP TO THE NEXT COMMENTS BELOW       %
+%   AND FOLLOW THE INSTRUCTIONS THERE      %
+%                                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt]{amsart}
+\usepackage{amssymb,ifthen}
+
+\setlength{\oddsidemargin}{-0.0cm}
+\setlength{\evensidemargin}{-0.0cm} \setlength{\textwidth}{15.5cm}
+\setlength{\textheight}{23.7cm} 
+\pagestyle{empty}
+\parindent=6mm
+\def\emptystring{}
+
+\renewcommand{\abstract}[6]{\setcounter{equation}{0}
+\hbox{}\begin{center}\vskip-2.4truecm
+{\small\sc 数学と物理における Julia の活用}\\[1mm]
+{\tiny \bf July 11th, 2023, Kyushu University, Fukuoka, Japan}
+\end{center}\vspace{1mm}\hrule\vspace{1.2truecm}
+\begin{center}
+ {\Large\bf #4}\\\vspace{5mm}{\large\bf #2 #1}\\\vspace{2mm}{#3}\\
+ \ifthenelse{\equal{#5}{\emptystring}}{}
+ {\normalsize \vspace{2mm}(joint work with #5)}
+\end{center}
+\vspace{7mm} #6}
+
+\begin{document}
+\thispagestyle{empty}
+
+%%%%%%%%%%%%%%%%%
+%  \abstract is a command of 6 arguments that 
+%  should be completed via the following sketch 
+%  (the 5th argument should be left empty if you 
+%   have no coauthor):
+%                                                 
+%   \abstract{Family name}{Given name(s)}{Institution}{Title of talk}{Coauthor(s)}{Text of Abstract}
+%%%%%%%%%%%%%%%%%
+
+%Example
+\abstract{Horikawa}{Yuto}
+{Osaka University, Japan}
+{BasicBSpline.jl で始める B-spline}{}
+{
+
+B-spline は滑らかさを保証した区分多項式を作るための道具であり，幾何形状表現や数値解析など広範な分野で活用されている．Julia における B-spline のパッケージは幾つか存在するが，その中でも BasicBSpline.jl を本講演では扱う．BasicBSpline.jl パッケージの使用方法を交えながら B-spline に関する理論を解説し，その応用例についても触れる．
+
+
+
+
+
+}
+\end{document}
